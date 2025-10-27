@@ -34,7 +34,7 @@ A project demonstrating how clustering can segment students by academic and fina
 **[AI Exam Marking Software](https://github.com/jrwambugu/aems)**  
 A system that aims to adress teacher shortages in public schools by integrating AI into the exam marking and feedback process
 
-**Currently Working On:** Salmon, a productivity Android app that alters scroll speed to reduce doomscrolling & promote intentional device usage.
+**Currently Working On:** Sisyphus, a productivity Android app that alters scroll speed to reduce doomscrolling & promote intentional device usage.
 
 <h2> Tools I've Used </h2>
 <p align="left">
