@@ -55,3 +55,8 @@ A system that aims to adress teacher shortages in public schools by integrating 
   
 </p>
 
+## Contacts  
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="45" height="45"/>](mailto:ruhenijoshua@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>](https://www.linkedin.com/in/joshua-wambugu-164598358)
+
