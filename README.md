@@ -5,14 +5,6 @@ My work focuses on building reliable systems, improving efficiency, and explorin
 
 ---
 
-## About Me
-- Background in IT support and infrastructure maintenance  
-- Growing expertise in data analysis, visualization, and machine learning  
-- Interested in leveraging data to improve decision-making and user experiences  
-- Always eager to learn, collaborate, and take on new challenges  
-
----
-
 ## What I’m Working On
 - Applying machine learning techniques to identify patterns in education data  
 - Building data workflows and automating reporting processes  
