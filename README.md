@@ -5,15 +5,8 @@ My work focuses on building reliable systems, improving efficiency, and explorin
 
 ---
 
-## What I’m Working On
-- Applying machine learning techniques to identify patterns in education data  
-- Building data workflows and automating reporting processes  
-- Developing technical support and system optimization tools  
-
----
-
 ## Technical Skills
-**Languages:** Python, SQL, HTML/CSS, JavaScript (basic)  
+**Languages:** Python, SQL, HTML/CSS, JavaScript, Typescript, R
 **Data Tools:** pandas, NumPy, scikit-learn, matplotlib, seaborn  
 **Other Tools:** Jupyter Notebook, Git/GitHub, VS Code, Power BI  
 **Areas of Interest:** Data Science, Machine Learning, Education Technology, Automation  
