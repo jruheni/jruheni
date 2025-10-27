@@ -28,13 +28,13 @@ technical_background:
 
 currently_learning: ["Generative AI, Advanced Data Modeling, Cloud Deployment"]
 ```
-## Featured Project 
+## Featured Projects  
 **[Proof of Concept: Using Machine Learning to Improve Service Provision](https://github.com/jruheni/clustering-proof-of-concept)**  
 A project demonstrating how clustering can segment students by academic and financial readiness, helping education providers personalize advising and improve student outcomes.  
 **[AI Exam Marking Software](https://github.com/jrwambugu/aems)**  
 A system that aims to adress teacher shortages in public schools by integrating AI into the exam marking and feedback process
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> Tools I've Used </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -47,9 +47,9 @@ A system that aims to adress teacher shortages in public schools by integrating 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="figma" width="45" height="45"/> 
+  
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
