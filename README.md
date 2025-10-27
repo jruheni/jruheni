@@ -32,7 +32,7 @@ My work focuses on building reliable systems, improving efficiency, and explorin
 **[Proof of Concept: Using Machine Learning to Improve Service Provision](https://github.com/jruheni/clustering-proof-of-concept)**  
 A project demonstrating how clustering can segment students by academic and financial readiness, helping education providers personalize advising and improve student outcomes.
 
-**[AI Exam Marking Software](https://github.com/jrwambugu/aems)**
+**[AI Exam Marking Software](https://github.com/jrwambugu/aems)**  
 A system that aims to adress teacher shortages in public schools by integrating AI into the exam marking and feedback process
 
 ---
