@@ -45,5 +45,5 @@ A systme that aims to adress teacher shortages in public schools by integrating 
 ---
 
 ## Get in Touch
-- LinkedIn: [linkedin.com/in/your-link](www.linkedin.com/in/joshua-wambugu-164598358 )  
+- LinkedIn: www.linkedin.com/in/joshua-wambugu-164598358
 - Email: ruhenijoshua@gmail.com
