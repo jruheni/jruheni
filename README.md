@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Joshua Wambugu
 
-<!--
-**jruheni/jruheni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT professional and aspiring data scientist with a passion for using technology and data to solve real-world problems.  
+My work focuses on building reliable systems, improving efficiency, and exploring how data-driven insights can enhance service delivery, especially in education and emerging markets.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Background in IT support and infrastructure maintenance  
+- Growing expertise in data analysis, visualization, and machine learning  
+- Interested in leveraging data to improve decision-making and user experiences  
+- Always eager to learn, collaborate, and take on new challenges  
+
+---
+
+## What I’m Working On
+- Applying machine learning techniques to identify patterns in education data  
+- Building data workflows and automating reporting processes  
+- Developing technical support and system optimization tools  
+
+---
+
+## Technical Skills
+**Languages:** Python, SQL, HTML/CSS, JavaScript (basic)  
+**Data Tools:** pandas, NumPy, scikit-learn, matplotlib, seaborn  
+**Other Tools:** Jupyter Notebook, Git/GitHub, VS Code, Power BI  
+**Areas of Interest:** Data Science, Machine Learning, Education Technology, Automation  
+
+---
+
+## Featured Project
+**[Proof of Concept: Using Machine Learning to Improve Service Provision](https://github.com/jruheni/clustering-proof-of-concept)**  
+A project demonstrating how clustering can segment students by academic and financial readiness, helping education providers personalize advising and improve student outcomes.
+**[AI Exam Marking Software](https://github.com/jrwambugu/aems)**
+A systme that aims to adress teacher shortages in public schools by integrating AI into the exam marking and feedback process
+
+---
+
+## Currently Learning
+- Advanced data modeling and predictive analytics
+- Prompt engineering & generative AI
+- Cloud platforms and deployment (AWS, GCP)  
+- Process automation and API integration  
+
+---
+
+## Get in Touch
+- LinkedIn: [linkedin.com/in/your-link](www.linkedin.com/in/joshua-wambugu-164598358 )  
+- Email: ruhenijoshua@gmail.com
