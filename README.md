@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Wambugu
 
-I’m an IT professional and aspiring data scientist with a passion for using technology and data to solve real-world problems.  
+I’m an IT professional and aspiring data scientist/software engineer with a passion for using technology and data to solve real-world problems.  
 My work focuses on building reliable systems, improving efficiency, and exploring how data-driven insights can enhance service delivery, especially in education and emerging markets.
 
 ---
